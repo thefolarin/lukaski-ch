@@ -5,7 +5,7 @@ import emailjs from '@emailjs/browser';
 
 
 const CONFIG_DETAILS = {
-  template_id: 'template_bnuz698',
+  template_id: 'template_10pio2h',
   service_id: 'service_tv3xxpm',
   public_key: 'gx4yuveAa5S49Arkk',
 };
